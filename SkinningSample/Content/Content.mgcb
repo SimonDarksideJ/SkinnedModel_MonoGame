@@ -10,7 +10,7 @@
 
 #-------------------------------- References --------------------------------#
 
-/reference:..\..\SkinnedModelPipeline\bin\Release\netstandard2.0\SkinnedModelPipeline.dll
+/reference:..\..\SkinnedModelPipeline\bin\Release\net6.0\SkinnedModelPipeline.dll
 
 #---------------------------------- Content ---------------------------------#
 
@@ -18,7 +18,7 @@
 /importer:FbxImporter
 /processor:SkinnedModelProcessor
 /processorParam:DefaultEffect=SkinnedEffect
-/processorParam:ColorKeyColor=0,0,0,0
+/processorParam:ColorKeyColor={R:0 G:0 B:0 A:0}
 /processorParam:ColorKeyEnabled=True
 /processorParam:GenerateMipmaps=True
 /processorParam:GenerateTangentFrames=False
