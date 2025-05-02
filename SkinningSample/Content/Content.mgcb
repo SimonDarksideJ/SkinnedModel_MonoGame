@@ -10,7 +10,7 @@
 
 #-------------------------------- References --------------------------------#
 
-/reference:..\..\SkinnedModelPipeline\bin\Release\net6.0\SkinnedModelPipeline.dll
+/reference:..\..\SkinnedModelPipeline\bin\Release\net8.0\SkinnedModelPipeline.dll
 
 #---------------------------------- Content ---------------------------------#
 
